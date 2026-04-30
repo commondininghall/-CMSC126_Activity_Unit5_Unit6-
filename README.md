@@ -1,4 +1,4 @@
-# -CMSC126_Activity_Unit5_Unit6-
+# <CMSC126_Activity_Unit5_Unit6>
 # Team Members:
   Edriellen Mey Cambel - Project Lead / Frontend Developer
   Mikaela Kristen De Guzman - Backend Developer / System Analyst
