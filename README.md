@@ -7,13 +7,13 @@
 # Project Description:
 The legacy system currently suffers from many issues such as outdated architecture, dead links, and a cluttered interface.
 
-UPV CRS 2.0 is an improved version of the University of the Philippines Visayas. Computerized Registration System — the main platform serving the university's  students, faculty, and administrators. This version aims to provide a cleaner, more modern experience by addressing the shortcomings of the current system through updated architecture and a smoother, more intuitive interface.
+UPV CRS 2.0 is an improved version of the University of the Philippines Visayas Computerized Registration System — the main platform serving the university's  students, faculty, and administrators. This version aims to provide a cleaner, more modern experience by addressing the shortcomings of the current system through updated architecture and a smoother, more intuitive interface.
 
-Additional Features:
-	* Automated Email Notification 
-      * Students automatically receive notification to their emails regarding enrollment status and accountabilities.		
-    * UP Mail SSO (Single Sign-On) Authentication Scheme 
-      * Allows students log in using their UP Mail account instead of manually entering their student number and password.
+### Additional Features:
+* Automated Email Notification 
+  * Students automatically receive notification to their emails regarding enrollment status and accountabilities.		
+* UP Mail SSO (Single Sign-On) Authentication Scheme 
+  * Allows students log in using their UP Mail account instead of manually entering their student number and password.
 
   
 # Tech Stack:
