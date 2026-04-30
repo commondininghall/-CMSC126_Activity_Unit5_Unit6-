@@ -96,7 +96,8 @@ A hybrid hosting approach is implemented using three specific platforms with eac
  <img width="1366" height="1417" alt="student_menu" src="https://github.com/user-attachments/assets/608fae1e-069d-45a9-937c-39c19edff3f1" />
 
  ### Student Grade
-<img width="1366" height="1187" alt="student_grade" src="https://github.com/user-attachments/assets/1df12d91-d944-4f4a-8cd8-4a4c93437818" />
+ <img width="918" height="801" alt="student_grade" src="https://github.com/user-attachments/assets/75dff972-3771-4c9f-86f0-06635152c82d" />
+
 
 
 
