@@ -1,10 +1,10 @@
 # <CMSC126_Activity_Unit5_Unit6>
-# Team Members:
+# 👥 Team Members:
   * Edriellen Mey Cambel - Project Lead / Frontend Developer
   * Mikaela Kristen De Guzman - Backend Developer / System Analyst
   * Trisha Mae Hechenagocia - Database Administrator / QA Engineer
 
-# Project Description:
+# 📝 Project Description:
 The legacy system currently suffers from many issues such as outdated architecture, dead links, and a cluttered interface.
 
 UPV CRS 2.0 is an improved version of the University of the Philippines Visayas Computerized Registration System — the main platform serving the university's  students, faculty, and administrators. This version aims to provide a cleaner, more modern experience by addressing the shortcomings of the current system through updated architecture and a smoother, more intuitive interface.
@@ -16,7 +16,7 @@ UPV CRS 2.0 is an improved version of the University of the Philippines Visayas 
   * Allows students log in using their UP Mail account instead of manually entering their student number and password.
 
   
-# Tech Stack:
+# 💻 Tech Stack:
 ###  Frontend Tools:
 * Next.js – Ensures sensitive student data is fetched on the server rather than the browser to prevent unauthorized users, especially                                         tech-savvy students, from finding private API calls.
 
@@ -41,7 +41,7 @@ UPV CRS 2.0 is an improved version of the University of the Philippines Visayas 
    
    * Resend – Allows sending of automated emails for reminders, like of a student’s enrollment status for instance.
 
-# Hosting (Platform for hosting)
+# ☁️ Hosting (Platform for hosting)
 A hybrid hosting approach is implemented using three specific platforms with each one having a specific responsibilty: Vercel (frontend and backend), Supabase (database), AWS S3 (file storage). 
 
 ### Vercel — Frontend and Backend
@@ -59,7 +59,8 @@ A hybrid hosting approach is implemented using three specific platforms with eac
 
 ### Supabase — Database
   
-#### What it hosts: 
+#### What it hosts:
+
   * PostgreSQL database
   * Stundet, faculty, admin records
   * Academic transactions and data
@@ -80,6 +81,24 @@ A hybrid hosting approach is implemented using three specific platforms with eac
   
 #### Why it was chosen:
  * Files delivered directly to users without passing through the application server — keeps Vercel bandwidth consumption low 
- * Extremely high reliability and low cost sizes 
+ * Extremely high reliability and low cost sizes
+ 
+
+ # 🔍 Screenshots of Mockups
+ ### Homepage
+ <img width="1366" height="984" alt="homepage" src="https://github.com/user-attachments/assets/bd13394f-e537-4798-ae40-c77d152d3ef8" />
+
+ ### Schedule/Conflict Check Screen
+ <img width="1366" height="1018" alt="schedule_conflict" src="https://github.com/user-attachments/assets/ee865d03-a2c5-4572-8d7c-375b59025425" />
+
+ ### Student Menu
+ <img width="1366" height="1417" alt="student_menu" src="https://github.com/user-attachments/assets/d17aefed-d358-4341-b176-60259076af42" />
+ 
+ ### Student Grade
+ <img width="1366" height="1187" alt="student_grade" src="https://github.com/user-attachments/assets/f629f02f-f210-43c6-9fc7-f335b8e7c5e7" />
+
+
+
+
 
 
