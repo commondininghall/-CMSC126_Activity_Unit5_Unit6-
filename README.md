@@ -11,9 +11,9 @@ UPV CRS 2.0 is an improved version of the University of the Philippines Visayas.
 
 Additional Features:
 	* Automated Email Notification 
-    ⋅⋅⋅⋅* Students automatically receive notification to their emails regarding enrollment status and accountabilities.		
+      * Students automatically receive notification to their emails regarding enrollment status and accountabilities.		
     * UP Mail SSO (Single Sign-On) Authentication Scheme 
-    ⋅⋅⋅⋅* Allows students log in using their UP Mail account instead of manually entering their student number and password.
+      * Allows students log in using their UP Mail account instead of manually entering their student number and password.
 
   
 # Tech Stack:
