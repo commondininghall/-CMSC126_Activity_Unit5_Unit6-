@@ -1,3 +1,4 @@
+
 # <CMSC126_Activity_Unit5_Unit6>
 # 👥 Team Members:
   * Edriellen Mey Cambel - Project Lead / Frontend Developer
@@ -89,13 +90,15 @@ A hybrid hosting approach is implemented using three specific platforms with eac
  <img width="1366" height="984" alt="homepage" src="https://github.com/user-attachments/assets/bd13394f-e537-4798-ae40-c77d152d3ef8" />
 
  ### Schedule/Conflict Check Screen
- <img width="1366" height="1018" alt="schedule_conflict" src="https://github.com/user-attachments/assets/ee865d03-a2c5-4572-8d7c-375b59025425" />
+ <img width="1366" height="1018" alt="schedule_conflict" src="https://github.com/user-attachments/assets/6fb60a5d-ded0-46bb-bd8f-2ea4bf7106b9" />
 
  ### Student Menu
- <img width="1366" height="1417" alt="student_menu" src="https://github.com/user-attachments/assets/d17aefed-d358-4341-b176-60259076af42" />
- 
+ <img width="1366" height="1417" alt="student_menu" src="https://github.com/user-attachments/assets/608fae1e-069d-45a9-937c-39c19edff3f1" />
+
  ### Student Grade
- <img width="1366" height="1187" alt="student_grade" src="https://github.com/user-attachments/assets/f629f02f-f210-43c6-9fc7-f335b8e7c5e7" />
+<img width="1366" height="1187" alt="student_grade" src="https://github.com/user-attachments/assets/1df12d91-d944-4f4a-8cd8-4a4c93437818" />
+
+
 
 
 
