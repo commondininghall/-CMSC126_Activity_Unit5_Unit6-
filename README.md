@@ -90,7 +90,7 @@ A hybrid hosting approach is implemented using three specific platforms with eac
  <img width="1366" height="984" alt="homepage" src="https://github.com/user-attachments/assets/bd13394f-e537-4798-ae40-c77d152d3ef8" />
 
  ### Schedule/Conflict Check Screen
- <img width="1366" height="1018" alt="schedule_conflict" src="https://github.com/user-attachments/assets/6fb60a5d-ded0-46bb-bd8f-2ea4bf7106b9" />
+ <img width="1366" height="1018" alt="schedule_conflict" src="https://github.com/user-attachments/assets/d186a019-a7cb-4285-9020-1c94c235ebcf" />
 
  ### Student Menu
  <img width="1366" height="1417" alt="student_menu" src="https://github.com/user-attachments/assets/608fae1e-069d-45a9-937c-39c19edff3f1" />
